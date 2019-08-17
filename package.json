@@ -14,7 +14,7 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"authoer":{
+	"author":{
 		"firstName": "Richard",
 		"lastName":"Yang"
 	}
