@@ -1,9 +1,15 @@
 {
 	"author": "Richard Yang",
-	"description": "A project that does something awesome",
+  "description": "A project that does something awesome",
+  "keywords":["freecodecamp","this","that","the","other"],
+  "license": "aLicense",
+  "version": "12",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
+	},
+  "dependencies": {
+  "moment": "^2.10.2"
 	},
 	"main": "server.js",
 	"scripts": {
